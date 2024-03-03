@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container-1 {
+  background: #e0e0e0;
+}
+
+.home {
+  background: #e0e0e0;
+}
+
+form {
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+
+.input {
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+.submit {
+  border-radius: 50px;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
