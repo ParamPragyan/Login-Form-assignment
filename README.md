@@ -16,9 +16,8 @@ It takes the inputs and stores them inside the local storage, and when the submi
 <blockquote><b><i>home page</i></b></blockquote>
 
 ![image](./src/assets/image2.png)
-<blockquote><b><i>stats page</i></b></blockquote>
 
-live link - []()
+live link - [here](https://login-form-assignment-xi.vercel.app/)
 
 
 
